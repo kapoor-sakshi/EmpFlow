@@ -13,6 +13,4 @@
 ![image-here](/images/7.png)
 ![image-here](/images/8.png)
 
-# Contact me
 
-Created by [@Ahmed Kamel](mailto:ahmedukamel@outlook.com).
